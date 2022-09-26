@@ -1,0 +1,21 @@
+{
+  "name": "cloudflare-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon ./index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cloudflare": "^2.9.1",
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "@types/cloudflare": "^2.7.9",
+    "@types/express": "^4.17.14",
+    "nodemon": "^2.0.20"
+  }
+}
