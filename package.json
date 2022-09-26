@@ -7,7 +7,10 @@
     "dev": "nodemon ./index.js"
   },
   "keywords": [],
-  "author": "",
+  "author": {
+    "name": "Armando Tomazzoni Jr.",
+    "email": "juniortomazzoni@gmail.com"
+  },
   "license": "ISC",
   "dependencies": {
     "cloudflare": "^2.9.1",
